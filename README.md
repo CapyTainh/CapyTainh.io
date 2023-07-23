@@ -47,8 +47,7 @@ Since I do want to be an expepert in the security field and become a certified p
 </p>
 
 <br>
-![image](https://github.com/AlexCeclan/alexceclan.github.io/assets/111354181/77a4c597-80a7-4cb6-b830-91e95ff780cf)
-
+https://github.com/AlexCeclan/alexceclan.github.io/issues/1#issue-1817085867
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a <img
       src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"
