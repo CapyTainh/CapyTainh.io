@@ -52,7 +52,7 @@ Since I do want to be an expepert in the security field and become a certified p
 <p align="left"> 
 
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-557C94?logo=Nmap&logoColor=white&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/Nmap-316192?logo=Nmap&logoColor=white&style=ShieldStyle" />
 <img src="https://img.shields.io/badge/Burp Suite-47A248?logo=Burp Suite&logoColor=black&style=ShieldStyle" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />   
   
