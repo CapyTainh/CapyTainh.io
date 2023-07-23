@@ -55,9 +55,7 @@ This section will be dedicated to various tutorials, labs, and classes.
 <img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png" style="height: 3rem"/>
 </a>
 </p>
-
-<script src="https://tryhackme.com/badge/1743198"></script>
-
+<code class="mb-2" id="thm_badge_script">&lt;script src="https://tryhackme.com/badge/1743198"&gt;&lt;/script&gt;</code>
 
  <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
