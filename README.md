@@ -50,7 +50,7 @@ Since I do want to be an expepert in the security field and become a certified p
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a <img
-      src="![image](https://github.com/AlexCeclan/alexceclan.github.io/assets/111354181/efce69ca-835c-40cd-9b76-5e415b8cf548)
+      src="(https://github.com/AlexCeclan/alexceclan.github.io/assets/111354181/efce69ca-835c-40cd-9b76-5e415b8cf548)
 "
        idth="40" height="40" /> </a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
