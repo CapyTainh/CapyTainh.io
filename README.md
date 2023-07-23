@@ -23,7 +23,7 @@ I am interested in expanding my expertise in the penetration-testing area, focus
 
 
 ### 🌱 Hobbies that I’m currently challenging myself:
-Since I do want to become a certified pen-tester, I decided to take more time focusing on feeding more knowledge:books: to myself. As such, I set a couple of self-challenges in order to push myself more further.:running: 
+Since I do want to become a certified pen-tester, I decided to take more time focusing on feeding more knowledge to myself. As such, I set a couple of self-challenges in order to push myself more further.
 
 * Learn to code:man_technologist: 3-4 hours a day with no distraction ( One or two day off a week. ) 
 * Read:newspaper: Dev and UI articles daily 
