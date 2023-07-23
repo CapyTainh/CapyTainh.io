@@ -30,7 +30,7 @@ I am a Cyber Security Analyst focusing on penetration-testing of applications, n
 Since I do want to be an expert in the security field and become a certified pen-tester, I decided to take more time focusing on feeding more knowledge to myself. As such, I set a couple of self-challenges to push myself further.
 
 * Learn to pen-test in Kali Linux (plus Nmap, Wireshark and Burp Suite) :man_technologist: 1-2 hours a day without distraction.
-* Read :newspaper: and be always up-to-date with what is happening in the current war, and not only. 
+* Read :newspaper: and be always up-to-date with major security and political news, and not only. 
 * Workout:weight_lifting_man: by going to the gym at least 3 times a week, for a healthy body.  
 * Avoid spending too much time on TikTok or Youtube :skull_and_crossbones:.
 
