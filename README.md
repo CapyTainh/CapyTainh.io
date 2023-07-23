@@ -47,8 +47,6 @@ Since I do want to be an expepert in the security field and become a certified p
 
 <br>
 
-<h3 align="left"><h3>🛠 Tech Stack</h3></h3>
-<p align="left"> 
 <h3>🛠 Tech Stack</h3>
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Nmap-00C7B7?logo=Nmap&logoColor=white&style=ShieldStyle" />
