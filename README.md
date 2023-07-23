@@ -44,7 +44,7 @@ Since I do want to be an expert in the security field and become a certified pen
 
 <!-- Socials --> 
 
-<h3 align="center">Let's Connect!</h3>  
+<h3 align="left">Let's Connect!</h3>  
 <div align="left">
 <a href="https://www.linkedin.com/in/alexandru-ceclan95/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
  <a href="mailto:alexandruceclan@gmail.com" target="blank">
