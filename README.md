@@ -1,6 +1,15 @@
-<h1 align="center">Hi 👋, I'm Alexandru Ceclan</h1>
-<h3 align="center">Penetration Tester</h3>
+<h1 align="center">
+Heya, welcome to my crib!
+	<a href="https://github.com/Bouaskaoun" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
+</p>
+<br/>
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Penetration+Testing;Vulnerability+Management;Always%20learning%20new%20things&center=true&width=380&height=45">
+	</a>
+</p>
 
 <p><img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /></p>
 
