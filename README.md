@@ -50,7 +50,7 @@ Since I do want to be an expepert in the security field and become a certified p
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-   ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
    
 
