@@ -27,6 +27,11 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 - ⚡ Fun fact: I 💖 to code 24x7.
 
 
+
+
+
+
+
 ### 🌱 Hobbies that I’m currently challenging myself:
 Since I do want to become a certified pen-tester, I decided to take more time focusing on feeding more knowledge:books: to myself. As such, I set a couple of self-challenges in order to push myself more further.:running: 
 
