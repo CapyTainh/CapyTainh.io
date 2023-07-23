@@ -26,6 +26,20 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I 💖 to code 24x7.
 
+
+### 🌱 Hobbies that I’m currently challenging myself:
+Since I do want to become a certified pen-tester, I decided to take more time focusing on feeding more knowledge:books: to myself. As such, I set a couple of self-challenges in order to push myself more further.:running: 
+
+* Learn to code:man_technologist: 3-4 hours a day with no distraction ( One or two day off a week. ) 
+* Read:newspaper: Dev and UI articles daily 
+* Workout:weight_lifting_man: 3 days in a row and take a day break 
+* Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
+* Adapting the minimalism life style
+* 🔜
+
+
+
+
 <br>
 
 <h3 align="left">Connect with me:</h3>
