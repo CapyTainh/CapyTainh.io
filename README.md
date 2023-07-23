@@ -52,6 +52,10 @@ Since I do want to be an expert in the security field and become a certified pen
 </a>
 </p>
 
+<!-- Projects --> 
+### On-going personal projects
+
+
 
 
  <p align="center">
