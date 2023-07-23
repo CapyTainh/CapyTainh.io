@@ -7,12 +7,12 @@ Heya, welcome to my crib!
 <br/>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Penetration+Testing;Vulnerability+Management;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Cyber+Security+Analyst;Penetration+Testing;Vulnerability+Management;Avid+learner&center=true&width=380&height=45">
 	</a>
 </p>
 
 ### About me🧑:
-I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
+I am a Cyber Security Analyst focusing on the Penetration testing  and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
 I have done Internship as a FullStack Developer as well as Website Tester.<br/>
 I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
 
@@ -25,11 +25,6 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 - 💬 Ask me about Frontend and Android Development.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I 💖 to code 24x7.
-
-
-
-
-
 
 
 ### 🌱 Hobbies that I’m currently challenging myself:
