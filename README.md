@@ -42,17 +42,11 @@ Since I do want to be an expert in the security field and become a certified pen
 - 🛢 &nbsp; MySQL | PowerBI
 - 🔧 &nbsp; Python 
 
-### Contact me
+<!-- Socials --> 
 
-<br>
-<div align="left">
-  <a href="https://linkedin.com/in/alexandru-ceclan95/" target="_blank"  rel="noopener noreferrer">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="sophie-linkedin" />
-  </a>
-  <a href="alexandruceclan@gmail.com" target="top" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="alex-email"/>
-  </a>
-</div>
+<h3 align="center">Let's Connect! :</h3>  
+<div align="center">
+<a href="https://www.linkedin.com/in/alexandru-ceclan95/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
  
 </p>
 
