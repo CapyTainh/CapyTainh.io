@@ -35,11 +35,11 @@ Since I do want to be an expepert in the security field and become a certified p
 
 <br>
 <div align="left">
-  <a href="https://www.linkedin.com/in/sophienguyen113/" target="_blank"  rel="noopener noreferrer">
+  <a href="https://linkedin.com/in/alexandru-ceclan95/" target="_blank"  rel="noopener noreferrer">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="sophie-linkedin" />
   </a>
   <a href="alexandruceclan@gmail.com" target="top" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="sophie-email"/>
+  <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="alex-email"/>
   </a>
 </div>
  
