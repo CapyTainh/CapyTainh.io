@@ -56,6 +56,9 @@ This section will be dedicated to various tutorials, labs, and classes.
 </a>
 </p>
 
+<script src="https://tryhackme.com/badge/1743198"></script>
+
+
  <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
