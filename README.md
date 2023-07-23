@@ -59,6 +59,7 @@ Since I do want to be an expepert in the security field and become a certified p
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
       alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
     rel="noreferrer"> <img
-    
+    ![image](https://github.com/AlexCeclan/alexceclan.github.io/assets/111354181/b283fb30-b7df-4263-8f43-a893eb928ecc)
+
 
 
