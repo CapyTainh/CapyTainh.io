@@ -34,7 +34,7 @@ Since I do want to be an expepert in the security field and become a certified p
 ## Contact me
 
 <br>
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/sophienguyen113/" target="_blank"  rel="noopener noreferrer">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="sophie-linkedin" />
   </a>
