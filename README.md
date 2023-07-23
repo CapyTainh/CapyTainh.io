@@ -51,6 +51,6 @@ Since I do want to be an expepert in the security field and become a certified p
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
-<img src="https://img.shields.io/badge/BadgeText-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/KaliLinux-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
    
 
