@@ -50,13 +50,7 @@ Since I do want to be an expepert in the security field and become a certified p
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <img src="https://github.com/AlexCeclan/alexceclan.github.io.wiki.git"
-       width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
+   ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 
    
 
