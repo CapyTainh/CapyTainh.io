@@ -27,7 +27,6 @@ Since I do want to be an expepert in the security field and become a certified p
 * Read :newspaper: and be always up-to-date with what is happening in the current war, and not only. 
 * Workout:weight_lifting_man: by going to the gym at least 3 times a week, for a healthy body.  
 * Avoid spending too much time on TikTok or Youtube :skull_and_crossbones:.
-* Adapting the minimalism life style.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250" height="200" />
 
