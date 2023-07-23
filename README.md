@@ -11,12 +11,10 @@ Heya, welcome to my crib!
 	</a>
 </p>
 
-### About me🧑:
-I am a Cyber Security Analyst focusing on the Penetration testing  and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
-I have done Internship as a FullStack Developer as well as Website Tester.<br/>
-I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" height="280" />
+### About me:
+I am a Cyber Security Analyst focusing on penetration testing of applications, networks and infrastrucutres.<br/>
+I have experience in working as a BI Analyst as well, with knowledge in SQL and PowerBI.<br/>
+I am interested in expanding my expertise in the penetration-testing area, focusing on obtaining few certificates such as CEH.
 
 - 🔭 I’m currently working on Frontend Web Development & Android Development.
 - 🌱 I’m currently learning Backend Development.
