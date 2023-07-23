@@ -40,7 +40,7 @@ Since I do want to be an expert in the Cybersecurity field and become (eventuall
 - 💻 &nbsp; Kali Linux | Burp Suite | Metasploit | Nmap
 - 🛢 &nbsp; MySQL | PowerBI
 - 🔧 &nbsp; Python 
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/alexandruceclan.png" alt="TryHackMe">
 
 <!-- Projects --> 
 ### On-going personal projects
@@ -55,7 +55,7 @@ This section will be dedicated to various tutorials, labs, and classes.
 <img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png" style="height: 3rem"/>
 </a>
 </p>
-<img src="https://tryhackme-badges.s3.amazonaws.com/alexandruceclan.png" alt="TryHackMe">
+
 
  <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
