@@ -26,7 +26,7 @@ I am a Cyber Security Analyst focusing on penetration-testing of applications, n
 - ⚡ Fun fact: Mr. Robot TV series made me do this.
 
 
-### 🌱 Hobbies that I’m currently challenging myself:
+###  Hobbies that I’m currently challenging myself:
 Since I do want to be an expert in the security field and become a certified pen-tester, I decided to take more time focusing on feeding more knowledge to myself. As such, I set a couple of self-challenges to push myself further.
 
 * Learn to pen-test in Kali Linux (plus Nmap, Wireshark and Burp Suite) :man_technologist: 1-2 hours a day without distraction.
@@ -36,7 +36,7 @@ Since I do want to be an expert in the security field and become a certified pen
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250" height="200" />
 
-## <h3> 🛠 Tech Stack</h3>
+##  Tech Stack
 
 - 💻 &nbsp; Kali Linux | Burp Suite | Metasploit | Nmap
 - 🛢 &nbsp; MySQL | PowerBI
