@@ -17,12 +17,11 @@ Heya, welcome to my crib!
 </p>
 
 ### About me
-I am a Cyber Security Analyst focusing on penetration-testing of applications, networks, and infrastructures. I am also experienced in working as a BI Analyst, with knowledge in SQL and PowerBI. To top up, I am interested in expanding my expertise in the penetration-testing area, focusing on obtaining certificates such as Certified Ethical Hacker. <br/>
+I am Alex, a passionate person for Cyberspace and physical security. In short, this page is intended to document my learning path towards becoming an expert in the Cyber Security field, more specifically to expand my expertise in the penetration-testing area and vulnerability management. <br/>
 
-- 🔭 I’m currently organizing and managing PCI DSS penetration-tests, and leading the vulnerability management side as well.
-- 👯 I’m looking to collaborate and discuss with other pen-testing enthusiasts and people from the Cyber Security field.
-- 💬 Ask me anything about the current (physical and cyber) regional security state of affairs.
-- ☕ I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 🔭 I’m currently organizing and managing PCI DSS penetration-tests, and leading the vulnerability management side.
+- 👯 I love sharing my experience and knowledge with others. Exchanging ideas and experiences between individuals would bring only positive outcomes. 
+- ☕ For me a perfect cup of coffee will brighten up the dark days. 
 - ⚡ Fun fact: Mr. Robot TV series made me do this.
 
 
