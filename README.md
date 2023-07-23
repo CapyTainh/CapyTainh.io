@@ -57,6 +57,7 @@ Since I do want to be an expert in the security field and become a certified pen
 </a>
 </p>
 
+![tryhackme stats](https://raw.githubusercontent.com/<alexandruceclan>/<alexandruceclan>/master/assets/thm_propic.png)
 
  <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
