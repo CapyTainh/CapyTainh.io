@@ -27,12 +27,11 @@ I am Alex, a passionate person for Cyberspace and physical security. In short, t
 
 
 ###  Hobbies that I’m currently challenging myself
-Since I do want to be an expert in the security field and become a certified pen-tester, I decided to take more time focusing on feeding more knowledge to myself. As such, I set a couple of self-challenges to push myself further.
+Since I do want to be an expert in the Cybersecurity field and become (eventually) a certified pen-tester, I decided to take more time focusing on learning, especially on those that I am not enough confident. And also few other challenges to help me maintain my mental and physical balance.
 
-* Learn to pen-test in Kali Linux (plus Nmap, Wireshark and Burp Suite) :man_technologist: 1-2 hours a day without distraction.
-* Read :newspaper: and be always up-to-date with major security and political news, and not only. 
-* Workout:weight_lifting_man: by going to the gym at least 3 times a week, for a healthy body.  
-* Avoid spending too much time on TikTok or Youtube :skull_and_crossbones:.
+* Learn to pen-test in Kali Linux (plus Nmap, Wireshark and Burp Suite) :man_technologist: at least 2 hours a day without distraction.
+* Read :newspaper: and be always up-to-date with the new technologies and Cyber-related news. 
+* Workout:weight_lifting_man: by going to the gym at least 3 times a week, for a healthy body. 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250" height="200" />
 
@@ -45,6 +44,7 @@ Since I do want to be an expert in the security field and become a certified pen
 
 <!-- Projects --> 
 ### On-going personal projects
+This section will be dedicated to various tutorials, labs, and classes. 
 
 <!-- Socials --> 
 
