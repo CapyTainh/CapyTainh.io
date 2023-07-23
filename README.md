@@ -2,7 +2,7 @@
 <h3 align="center">Penetration Tester</h3>
 
 
-<p><img align="right" src="https://media.giphy.com/media/lp3GUtG2waC88/giphy.gif" /></p>
+<p><img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /></p>
 
 
 - 🌱 I’m currently learning pen-testing techniques and tools
