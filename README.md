@@ -16,7 +16,7 @@ I am a Cyber Security Analyst focusing on penetration-testing of applications, n
 I have experience in working as a BI Analyst as well, with knowledge in SQL and PowerBI.<br/>
 I am interested in expanding my expertise in the penetration-testing area, focusing on obtaining certificates such as Certified Ethical Hacker (CEH).
 
-- 🔭 I’m currently organizing and managing PCI DSS penetration-tests, and leading the vulnerability managemnt side as well.
+- 🔭 I’m currently organizing and managing PCI DSS penetration-tests, and leading the vulnerability management side as well.
 - 👯 I’m looking to collaborate with other pen-testing enthusiasts and people from the Cyber Security field.
 - 💬 Ask me anything about the current (physical and cyber) regional security state of affairs.
 - ⚡ Fun fact: Mr. Robot TV series made me do this.
