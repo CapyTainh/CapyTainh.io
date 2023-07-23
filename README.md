@@ -53,9 +53,3 @@ Since I do want to be an expepert in the security field and become a certified p
 - 🛢 &nbsp; MySQL | PowerBI
 - 🔧 &nbsp; Python 
 
-
-| 💻 **Technology** | 🚀 **Projects** |
-|-|-|
-| [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/) | [![hackbout-certificate-generator](https://img.shields.io/static/v1?label=hackbout-certificate-generator&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/HackClub-NMIT/hackbout-certificate-generator) |
-| [![Nmap](https://img.shields.io/badge/Nmap-00C7B7?logo=Nmap&logoColor=white&style=ShieldStyle)](https://nmap.org) | [![Speaking-Geo-Assistant-Backend](https://img.shields.io/static/v1?label=Speaking-Geo-Assistant-Backend&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/ashleymavericks/Speaking-Geo-Assistant-Backend) |
-
