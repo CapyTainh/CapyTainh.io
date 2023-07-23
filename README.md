@@ -47,10 +47,10 @@ Since I do want to be an expepert in the security field and become a certified p
 </p>
 
 <br>
-https://github.com/AlexCeclan/alexceclan.github.io/issues/1#issue-1817085867
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a <img
-      src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"
+      src="https://github.com/AlexCeclan/alexceclan.github.io/issues/1#issue-1817085867"
        idth="40" height="40" /> </a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
