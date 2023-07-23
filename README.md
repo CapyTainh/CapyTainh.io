@@ -56,7 +56,7 @@ Since I do want to be an expert in the security field and become a certified pen
 <img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png" style="height: 3rem"/>
 </a>
 </p>
-
+![tryhackme stats](https://raw.githubusercontent.com/<alexandruceclan>/master/assets/thm_propic.png)
  <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
