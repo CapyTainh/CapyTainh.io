@@ -43,8 +43,8 @@ Since I do want to be an expert in the Cybersecurity field and become (eventuall
 
 <!-- Projects --> 
 ### On-going personal projects
-This section will be dedicated to various tutorials, labs, and classes. 
 <img src="https://tryhackme-badges.s3.amazonaws.com/alexandruceclan.png" alt="TryHackMe">
+This section will be dedicated to various tutorials, labs, and classes. 
 <!-- Socials --> 
 
 <h3 align="left">Let's Connect</h3>  
