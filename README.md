@@ -50,7 +50,7 @@ Since I do want to be an expepert in the security field and become a certified p
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Kali Linux | Burp Suite | Metasploit | Nmap
-- 🛢 &nbsp; MySQL | Firebase
+- 🛢 &nbsp; MySQL | PowerBI
 - 💻 &nbsp; Python 
 
 
