@@ -22,7 +22,7 @@ I am Alex, a passionate person for Cyberspace and physical security. In short, t
 - 🔭 I’m currently organizing and managing PCI DSS penetration-tests, and leading the vulnerability management side.
 - 👯 I love sharing my experience and knowledge with others. Exchanging ideas and experiences between individuals would bring only positive outcomes. 
 - ☕ For me a perfect cup of coffee will brighten up the dark days. 
-- ⚡ Fun fact: Mr. Robot TV series made me do this.
+- ⚡ A fun fact is that Mr. Robot TV series made me do this.
 
 
 
