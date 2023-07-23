@@ -25,15 +25,7 @@ I am a Cyber Security Analyst focusing on penetration-testing of applications, n
 - ☕ I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 - ⚡ Fun fact: Mr. Robot TV series made me do this.
 
-<!-- Socials --> 
 
-<h3 align="left">Let's Connect</h3>  
-<div align="left">
-<a href="https://www.linkedin.com/in/alexandru-ceclan95/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
- <a href="mailto:alexandruceclan@gmail.com" target="blank">
-<img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png" style="height: 3rem"/>
-</a>
-</p>
 
 ###  Hobbies that I’m currently challenging myself
 Since I do want to be an expert in the security field and become a certified pen-tester, I decided to take more time focusing on feeding more knowledge to myself. As such, I set a couple of self-challenges to push myself further.
@@ -55,7 +47,15 @@ Since I do want to be an expert in the security field and become a certified pen
 <!-- Projects --> 
 ### On-going personal projects
 
+<!-- Socials --> 
 
+<h3 align="left">Let's Connect</h3>  
+<div align="left">
+<a href="https://www.linkedin.com/in/alexandru-ceclan95/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
+ <a href="mailto:alexandruceclan@gmail.com" target="blank">
+<img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png" style="height: 3rem"/>
+</a>
+</p>
 
 
  <p align="center">
