@@ -11,8 +11,6 @@ Heya, welcome to my crib!
 	</a>
 </p>
 
-<p><img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /></p>
-
 <hr>
 
 <pre>
@@ -28,6 +26,8 @@ Heya, welcome to my crib!
 <hr>
 
 <br>
+
+<p><img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
