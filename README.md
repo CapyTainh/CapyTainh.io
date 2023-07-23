@@ -12,17 +12,14 @@ Heya, welcome to my crib!
 </p>
 
 ### About me:
-I am a Cyber Security Analyst focusing on penetration testing of applications, networks and infrastrucutres.<br/>
+I am a Cyber Security Analyst focusing on penetration-testing of applications, networks and infrastrucutres.<br/>
 I have experience in working as a BI Analyst as well, with knowledge in SQL and PowerBI.<br/>
-I am interested in expanding my expertise in the penetration-testing area, focusing on obtaining few certificates such as CEH.
+I am interested in expanding my expertise in the penetration-testing area, focusing on obtaining certificates such as Certified Ethical Hacker (CEH).
 
-- 🔭 I’m currently working on Frontend Web Development & Android Development.
-- 🌱 I’m currently learning Backend Development.
-- 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
-- 🤔 I’m looking for help with Open source Contribution.
-- 💬 Ask me about Frontend and Android Development.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I 💖 to code 24x7.
+- 🔭 I’m currently organizing and managing PCI DSS penetration-tests, and leading the vulnerability managemnt side as well.
+- 👯 I’m looking to collaborate with other pen-testing enthusiasts and people from the Cyber Security field.
+- 💬 Ask me anything about the current (physical and cyber) regional security state of affairs.
+- ⚡ Fun fact: Mr. Robot TV series made me do this.
 
 
 ### 🌱 Hobbies that I’m currently challenging myself:
@@ -35,7 +32,7 @@ Since I do want to become a certified pen-tester, I decided to take more time fo
 * Adapting the minimalism life style
 * 🔜
 
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250" height="200" />
 
 
 <br>
