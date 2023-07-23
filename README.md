@@ -12,9 +12,9 @@ Heya, welcome to my crib!
 </p>
 
 ### About me:
-I am a Cyber Security Analyst focusing on penetration-testing of applications, networks and infrastrucutres.<br/>
+I am a Cyber Security Analyst focusing on penetration-testing of applications, networks, and infrastructures. I am also experienced in working as a BI Analyst as well, with knowledge in SQL and PowerBI. To top up, I am interested in expanding my expertise in the penetration-testing area, focusing on obtaining certificates such as Certified Ethical Hacker <br/>
 I have experience in working as a BI Analyst as well, with knowledge in SQL and PowerBI.<br/>
-I am interested in expanding my expertise in the penetration-testing area, focusing on obtaining certificates such as Certified Ethical Hacker (CEH).
+To top up, I am interested in expanding my expertise in the penetration-testing area, focusing on obtaining certificates such as Certified Ethical Hacker (CEH).
 
 - 🔭 I’m currently organizing and managing PCI DSS penetration-tests, and leading the vulnerability management side as well.
 - 👯 I’m looking to collaborate with other pen-testing enthusiasts and people from the Cyber Security field.
