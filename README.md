@@ -23,14 +23,13 @@ I am interested in expanding my expertise in the penetration-testing area, focus
 
 
 ### 🌱 Hobbies that I’m currently challenging myself:
-Since I do want to become a certified pen-tester, I decided to take more time focusing on feeding more knowledge to myself. As such, I set a couple of self-challenges in order to push myself more further.
+Since I do want to be an expepert in the security field and become a certified pen-tester, I decided to take more time focusing on feeding more knowledge to myself. As such, I set a couple of self-challenges in order to push myself more further.
 
-* Learn to code:man_technologist: 3-4 hours a day with no distraction ( One or two day off a week. ) 
-* Read:newspaper: Dev and UI articles daily 
-* Workout:weight_lifting_man: 3 days in a row and take a day break 
-* Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
+* Learn to pen-test in Kali Linux (plus Nmap, Wireshark and Burp Suite)  :man_technologist: 1-2 hours a day with no distraction.
+* Read:newspaper: be always up-to-date with what is happening in the current war, and not only. 
+* Workout:weight_lifting_man: going to the gym at least 3 times a week, for a healthy body.  
+* Avoid spending too much time on TikTok or Youtube :skull_and_crossbones:
 * Adapting the minimalism life style
-* 🔜
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250" height="200" />
 
