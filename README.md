@@ -17,7 +17,7 @@ I am a Cyber Security Analyst focusing on penetration-testing of applications, n
 - 🔭 I’m currently organizing and managing PCI DSS penetration-tests, and leading the vulnerability management side as well.
 - 👯 I’m looking to collaborate with other pen-testing enthusiasts and people from the Cyber Security field.
 - 💬 Ask me anything about the current (physical and cyber) regional security state of affairs.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ☕ I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 - ⚡ Fun fact: Mr. Robot TV series made me do this.
 
 
