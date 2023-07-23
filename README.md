@@ -36,6 +36,11 @@ Since I do want to be an expert in the security field and become a certified pen
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250" height="200" />
 
+## <h3> 🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Kali Linux | Burp Suite | Metasploit | Nmap
+- 🛢 &nbsp; MySQL | PowerBI
+- 🔧 &nbsp; Python 
 
 ## Contact me
 
@@ -53,11 +58,6 @@ Since I do want to be an expert in the security field and become a certified pen
 
 <br>
 
-## <h3> ## 🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Kali Linux | Burp Suite | Metasploit | Nmap
-- 🛢 &nbsp; MySQL | PowerBI
-- 🔧 &nbsp; Python 
 
  <br />
  <p align="center">
