@@ -11,23 +11,22 @@ Heya, welcome to my crib!
 	</a>
 </p>
 
-<hr>
+### About me🧑:
+I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
+I have done Internship as a FullStack Developer as well as Website Tester.<br/>
+I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
 
-<pre>
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
-</pre>
-<hr>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" height="280" />
+
+- 🔭 I’m currently working on Frontend Web Development & Android Development.
+- 🌱 I’m currently learning Backend Development.
+- 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
+- 🤔 I’m looking for help with Open source Contribution.
+- 💬 Ask me about Frontend and Android Development.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I 💖 to code 24x7.
 
 <br>
-
-<p><img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
