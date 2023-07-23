@@ -16,7 +16,7 @@ Heya, welcome to my crib!
 	</a>
 </p>
 
-### About me:
+### About me
 I am a Cyber Security Analyst focusing on penetration-testing of applications, networks, and infrastructures. I am also experienced in working as a BI Analyst, with knowledge in SQL and PowerBI. To top up, I am interested in expanding my expertise in the penetration-testing area, focusing on obtaining certificates such as Certified Ethical Hacker. <br/>
 
 - 🔭 I’m currently organizing and managing PCI DSS penetration-tests, and leading the vulnerability management side as well.
@@ -26,7 +26,7 @@ I am a Cyber Security Analyst focusing on penetration-testing of applications, n
 - ⚡ Fun fact: Mr. Robot TV series made me do this.
 
 
-###  Hobbies that I’m currently challenging myself:
+###  Hobbies that I’m currently challenging myself
 Since I do want to be an expert in the security field and become a certified pen-tester, I decided to take more time focusing on feeding more knowledge to myself. As such, I set a couple of self-challenges to push myself further.
 
 * Learn to pen-test in Kali Linux (plus Nmap, Wireshark and Burp Suite) :man_technologist: 1-2 hours a day without distraction.
@@ -44,7 +44,7 @@ Since I do want to be an expert in the security field and become a certified pen
 
 <!-- Socials --> 
 
-<h3 align="left">Let's Connect!</h3>  
+<h3 align="left">Let's Connect</h3>  
 <div align="left">
 <a href="https://www.linkedin.com/in/alexandru-ceclan95/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
  <a href="mailto:alexandruceclan@gmail.com" target="blank">
