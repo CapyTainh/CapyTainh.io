@@ -51,7 +51,7 @@ Since I do want to be an expepert in the security field and become a certified p
 
 - 💻 &nbsp; Kali Linux | Burp Suite | Metasploit | Nmap
 - 🛢 &nbsp; MySQL | PowerBI
-- 💻 &nbsp; Python 
+- 🔧 &nbsp; Python 
 
 
 | 💻 **Technology** | 🚀 **Projects** |
