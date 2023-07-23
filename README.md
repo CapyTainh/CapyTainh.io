@@ -34,13 +34,17 @@ Since I do want to be an expepert in the security field and become a certified p
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250" height="200" />
 
 
-<br>
+## Contact me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/alexandru-ceclan95/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
+<br>
+<div align="center">
+  <a href="https://www.linkedin.com/in/sophienguyen113/" target="_blank"  rel="noopener noreferrer">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="sophie-linkedin" />
+  </a>
+  <a href="alexandruceclan@gmail.com" target="top" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="sophie-email"/>
+  </a>
+</div>
  
 </p>
 
