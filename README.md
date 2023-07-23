@@ -40,12 +40,11 @@ Since I do want to be an expert in the Cybersecurity field and become (eventuall
 - 💻 &nbsp; Kali Linux | Burp Suite | Metasploit | Nmap
 - 🛢 &nbsp; MySQL | PowerBI
 - 🔧 &nbsp; Python 
-<img src="https://tryhackme-badges.s3.amazonaws.com/alexandruceclan.png" alt="TryHackMe">
 
 <!-- Projects --> 
 ### On-going personal projects
 This section will be dedicated to various tutorials, labs, and classes. 
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/alexandruceclan.png" alt="TryHackMe">
 <!-- Socials --> 
 
 <h3 align="left">Let's Connect</h3>  
