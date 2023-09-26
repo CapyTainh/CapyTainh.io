@@ -1,0 +1,13 @@
+Open Burp -> then try to login with random credentials -> check in Burp for the (POST) "/login" action -> send it to INTRUDER
+-> go to INTRUDER in Burp -> press CLEAR button and use Attack Type:Sniper -> go to PAYLOADS (Set payload set 1 and simple set) and paste the USERNAME list in Payload Options
+-> double-click on username used and press "ADD" for a payload position and press Start the Attack, it will open another window 
+-> by checking the "Lenght" of each name you see one that is different -> check the "RESPONSE" tab in the new window and you can see a string "incorrect pass" 
+-> go back to main "Position" tab -> change username that is valid -> double-click password and press "ADD" -> copy/paste the passwords in Payload Options
+-> Check the "Lenght" that is shorter -> that should be your password 
+
+
+HOW TO BYPASS 2FA if you have the account? 
+
+First login to your account entirely (with 2fa) -> note that when you are fully in your account the URL is "web-security-academy.net/my-account"
+-> now login to the other account -> when you are at the 2FA questions check the URL that is "web-security-academy.net/login2"
+-> if you change the "/login2" with "/my-account" you will by-pass the 2FA
