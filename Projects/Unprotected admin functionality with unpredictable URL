@@ -1,0 +1,19 @@
+Imagine an application that hosts administrative functions at the following URL:
+https://insecure-website.com/administrator-panel-yb556
+
+The URL might be disclosed in JavaScript that constructs the user interface based: 
+
+var isAdmin = false;
+	if (isAdmin) {
+		...
+		var adminPanelTag = document.createElement('a');
+		adminPanelTag.setAttribute('https://insecure-website.com/administrator-panel-yb556');
+		adminPanelTag.innerText = 'Admin panel';
+		...
+		
+		
+THE LAB 
+
+FIRST WAY https://web-security-academy.net/ AND ADD "/robots.txt" -> no results 
+SECOND WAY -> right-click and inspect source page -> in the HTML body you will find "/admin-d1sedi" (admin directory) 
+-> go back and add "https://web-security-academy.net/admin-d1sedi" -> you got into the admin directory
