@@ -1,0 +1,13 @@
+The application makes access control decisions based on the submitted value. For example:
+https://insecure-website.com/login/home.jsp?admin=true
+https://insecure-website.com/login/home.jsp?role=1
+
+The LAB: 
+
+We check for Cookies:
+
+We login using credentials provided -> we check in Burp for (POST) "/login" action and observe that Set-Cookies is abnormal 
+we then go to (GET) "/my-account" request and send it to repeater
+
+at Cookie we change "admin=true" -> we have access in the Admin Panel 
+We go back to website -> right-click inspect -> application -> Cookies -> change Admin to "true" -> refresh page and you are in
