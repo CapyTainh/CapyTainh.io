@@ -19,19 +19,19 @@ Heya, welcome to my crib!
 ### About me
 I am Alex, a passionate person for Cyberspace and physical security. In short, this page is intended to document my learning path towards becoming an expert in the Cybersecurity field, more specifically to expand my expertise in the penetration-testing area and vulnerability management. <br/>
 
-- 🔭 I’m currently organizing and managing PCI DSS penetration-tests, and leading the vulnerability management side.
-- 👯 I love sharing my experience and knowledge with others. Exchanging ideas and experiences between individuals would bring only positive outcomes. 
-- ☕ For me a perfect cup of coffee will brighten up the dark days. 
-- ⚡ A fun fact is that Mr. Robot TV series made me choose this path.
+- I’m currently organizing and managing PCI DSS penetration-tests, and leading the vulnerability management side.
+- I love sharing my experience and knowledge with others. Exchanging ideas and experiences between individuals brings only positive outcomes. 
+- For me a perfect cup of coffee will brighten up the dark days. 
+- A fun fact is that Mr. Robot TV series made me choose this path.
 
 
 
 ###  Hobbies that I’m currently challenging myself
-Since I do want to be an expert in the Cybersecurity field and become (eventually) a certified pen-tester, I decided to take more time focusing on learning, especially on those topics related to the red hat and/or blue hat work. And also a few other challenges to help me maintain my mental and physical balance.
+Since I do want to be an expert in the Cybersecurity field and become (eventually) a certified pen-tester, I decided to push myself even more, and focus even more on the red hat topics. To be more precise:
 
-* Learn to pen-test in Kali Linux (plus Nmap, Wireshark, and Burp Suite) :man_technologist: at least 2 hours a day without distraction.
-* Read :newspaper: and be always up-to-date with the new technologies and Cyber-related news. 
-* Workout:weight_lifting_man: by going to the gym at least 3 times a week, for a healthy body. 
+* Perfectioning my pen-testing skills in Kali Linux and other tools such as Nmap, Wireshark, Burp Suite, Rapid7 at least 2 hours per day without distraction.
+* Read and be always up-to-date with the new technologies and Cyber-related news. 
+* Workout by going to the gym at least 3 times a week, for a healthy body. 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250" height="200" />
 
@@ -39,7 +39,7 @@ Since I do want to be an expert in the Cybersecurity field and become (eventuall
 
 - 💻 &nbsp; Kali Linux | Burp Suite | Metasploit | Nmap
 - 🛢 &nbsp; MySQL | PowerBI
-- 🔧 &nbsp; Python 
+- 🔧 &nbsp; Python | Bash
 
 <!-- Projects --> 
 ### On-going personal projects
