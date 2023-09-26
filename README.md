@@ -17,7 +17,7 @@ Heya, welcome to my crib!
 </p>
 
 ### About me
-I am Alex, a passionate person for Cyberspace and physical security. In short, this page is intended to document my learning path towards becoming an expert in the Cybersecurity field, more specifically to expand my expertise in the penetration-testing area and vulnerability management. <br/>
+I am Alex, an aspiring expert in the Cybersecurity field. In short, this page is intended to document my learning path, that hopefully can be a useful learning resource for others as well. <br/>
 
 - I’m currently organizing and managing PCI DSS penetration-tests, and leading the vulnerability management side.
 - I love sharing my experience and knowledge with others. Exchanging ideas and experiences between individuals brings only positive outcomes. 
