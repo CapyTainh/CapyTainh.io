@@ -1,0 +1,31 @@
+ Server-side request forgery is a web security vulnerability that allows an attacker to cause the server-side application to make requests to an unintended location.
+
+In a typical SSRF attack, the attacker might cause the server to make a connection to internal-only services within the organization's infrastructure.
+
+ When a user views the stock status for an item, their browser makes the following request:
+POST /product/stock HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 118
+
+stockApi=http://stock.weliketoshop.net:8080/product/stock/check%3FproductId%3D6%26storeId%3D1
+
+ In this example, an attacker can modify the request to specify a URL local to the server:
+POST /product/stock HTTP/1.0
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 118
+
+stockApi=http://localhost/admin
+
+try and see if you can login "/admin" at URL -> not working
+-> go to an item, and press stock -> the (POST) string in Burp will be send to Repeater -> check the "Stock API" -> take the URL and DECODE IT -> is not working 
+-> you change the StockAPI into "http://localhost" -> it means that if you have access to the server automatically you have access to the app
+-> on stockAPI request change it into "http://localhost/admin" to access the admin interface
+-> click Send and you see the admin panel 
+-> press Raw in Burp and see the path on how to delete Carlos which is "/admin/delete?username=carlos"
+-> now change the StockAPI into "http://localhost/admin/delete?username=carlos"
+
+
+Second LAB
+-> check stocka gain and send it to Burp Intruder -> we have to scan 192.168.0.X range, so add 1 instead of X
+-> highlight "1" and press add -> go to payloads and change Payload Type into Numbers -> add FROM 1 TO 255 -> press attack 
+-> for one number we receive a different ERROR code -> we send it to Burp repeater -> we add "/admin" -> we get another URL in the body -> use it
