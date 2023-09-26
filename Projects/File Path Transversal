@@ -1,0 +1,22 @@
+Reading arbitrary files via path traversal!!!
+
+Imagine a shopping application that displays images of items for sale. This might load an image using the following HTML:
+<img src="/loadImage?filename=218.png">
+
+
+!!!!ON UNIX BASED, an attacker can request the following URL to retrieve the /etc/passwd file:
+https://insecure-website.com/loadImage?filename=../../../etc/passwd
+
+You have to change after = the "218.png" with ../../../etc/passwd -> it gives root privileges, so you can access the files.
+
+
+!!!!ON WINDOWS BASED, the same technique can be used: 
+https://insecure-website.com/loadImage?filename=..\..\..\windows\win.ini
+
+..\..\..\windows\win.ini -> giving root privileges.
+
+
+HOW TO USE IT WITH BURP?
+
+Open Burp -> check "HTTP History" -> look for the JPEG files or "filename=10.jpg" -> right-click on one and Send to Repeater 
+-> go to repeater and change ="10.jpg" into ../../../etc/passwd and press SEND -> on right you will have the results 
