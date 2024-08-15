@@ -25,7 +25,7 @@ I am Alex, an aspiring expert in the Cybersecurity field. In short, this page is
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250" height="200" />
 
 <!-- Projects --> 
-This section will be dedicated to various tutorials, labs, and classes. 
+
 <!-- Socials --> 
 
 <h3 align="left">Let's Connect</h3>  
