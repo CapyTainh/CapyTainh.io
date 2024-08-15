@@ -12,7 +12,7 @@ Heya, welcome to my crib!
 <br/>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Cyber+Security+Analyst;Penetration-Testing;Vulnerability+Management;Avid+learner&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Security+Assesments;Vulnerability+Management;Threat+Modeling;Code+Review&center=true&width=380&height=45">
 	</a>
 </p>
 
