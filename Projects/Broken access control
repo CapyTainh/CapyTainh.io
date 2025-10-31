@@ -1,3 +1,0 @@
-We login with the credentials 
-
--> we go to Burp and send to REPEATER the (GET) "/my-account?id=wiener" -> we change the id with "administrator" and hit Send ->we get the admin credentials on right side
